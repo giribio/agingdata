@@ -1,0 +1,20 @@
+Computational strategies towards developing novel antimelanogenic agents
+P.Ambili Unni, S.Sajitha Lulu, Girinath G. Pillai
+DOI : 10.1016/j.lfs.2020.117602
+Life Sciences Journal.
+
+Abstract
+Aims
+Extrinsic ageing or photoageing relates to the onset of age-linked phenotypes such as skin hyperpigmentation due to UV exposure. UV induced upregulated production of tyrosinase enzyme, which catalyses the vital biochemical reactions of melanin synthesis is responsible for the inception of skin hyperpigmentation. We aimed to generate a validated QSAR model with a dataset consisting of 69 thio-semicarbazone derivatives to elucidate the physicochemical properties of compounds essential for tyrosinase inhibition and to identify novel lead molecules with enhanced tyrosinase inhibitory activity and bioavailability.
+
+Main methods
+Lead optimization and insilico approaches were employed in this research work. QSAR model was generated and validated by exploiting Multiple Linear Regression method. Prioritization of lead-like compounds was accomplished by performing multi parameter optimization depleting molecular docking, bioavailability assessments and toxicity prediction for 69 compounds Derivatives of best lead compound were retrieved from chemical spaces.
+
+Key findings
+Molecular descriptors explicated the significance of chemical properties essential for chelation of copper ions present in the active site of tyrosinase protein target. Further, derivatives which comprise of electron donating groups in their chemical structure were predicted and analysed for tyrosinase inhibitory activity by employing insilico methodologies including chemical space exploration.
+
+Significance
+Our research work resulted in the generation of a validated QSAR model with higher degree of external predictive ability and significance to tyrosinase inhibitory activity. We propose 10 novel derivative compounds with enhanced tyrosinase inhibitory activity and bioavailability.
+
+Keywords
+Tyrosinase inhibitionQSAR modellingLead optimizationAntimelanogenic
