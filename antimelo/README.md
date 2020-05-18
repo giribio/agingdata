@@ -1,4 +1,8 @@
-This folder contains the data for QSAR, optimized novel derivatives, molecular docking data.
+This folder contains the data for QSAR, optimized novel derivatives and activity prediciting sheet.
+
+Data could be found in https://zenodo.org/record/3832296 too.
+
+Publications:
 
 Computational strategies towards developing novel antimelanogenic agents
 
